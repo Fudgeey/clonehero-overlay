@@ -1,0 +1,9 @@
+const ui = {
+    info() {
+
+    },
+
+    timer() {
+
+    },
+}
